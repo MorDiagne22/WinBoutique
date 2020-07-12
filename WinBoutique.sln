@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinBoutique", "WinBoutique\WinBoutique.csproj", "{38069CD1-9D09-418D-AD0B-1F2854575EA3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B6D67266-B5F7-4CC6-90B3-CEC2D850A768} = {B6D67266-B5F7-4CC6-90B3-CEC2D850A768}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetierBoutique", "MetierBoutique\MetierBoutique.csproj", "{B6D67266-B5F7-4CC6-90B3-CEC2D850A768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38069CD1-9D09-418D-AD0B-1F2854575EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38069CD1-9D09-418D-AD0B-1F2854575EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38069CD1-9D09-418D-AD0B-1F2854575EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38069CD1-9D09-418D-AD0B-1F2854575EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D67266-B5F7-4CC6-90B3-CEC2D850A768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D67266-B5F7-4CC6-90B3-CEC2D850A768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D67266-B5F7-4CC6-90B3-CEC2D850A768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D67266-B5F7-4CC6-90B3-CEC2D850A768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798F0AD9-67A9-4FE6-A21D-88E88BBCC855}
+	EndGlobalSection
+EndGlobal

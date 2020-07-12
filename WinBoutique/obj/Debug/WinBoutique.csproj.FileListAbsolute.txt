@@ -1,0 +1,36 @@
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\WinBoutique.exe.config
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\WinBoutique.exe
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\WinBoutique.pdb
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.Properties.Resources.resources
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csproj.GenerateResource.cache
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csproj.CoreCompileInputs.cache
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.exe
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.pdb
+c:\users\administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.Form1.resources
+C:\Users\Administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\MetierBoutique.dll
+C:\Users\Administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\EntityFramework.dll
+C:\Users\Administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\MetierBoutique.pdb
+C:\Users\Administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\MetierBoutique.dll.config
+C:\Users\Administrateur\source\repos\WinBoutique\WinBoutique\bin\Debug\EntityFramework.xml
+C:\Users\Administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\source\repos\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csproj.CopyComplete
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\WinBoutique.exe.config
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\WinBoutique.exe
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\WinBoutique.pdb
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\MetierBoutique.dll
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\EntityFramework.dll
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\MetierBoutique.dll.config
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\EntityFramework.xml
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.Form1.resources
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.Properties.Resources.resources
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csproj.GenerateResource.cache
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csproj.CopyComplete
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.exe
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.pdb
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csproj.CoreCompileInputs.cache
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\bin\Debug\MetierBoutique.pdb
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.csprojAssemblyReference.cache
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.FormProduit.resources
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.FormAccueil.resources
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.FrmProduit.resources
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\WinBoutique\obj\Debug\WinBoutique.Frm_Ajout_Mod_Produit.resources

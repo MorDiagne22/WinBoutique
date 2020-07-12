@@ -1,0 +1,24 @@
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\bin\MetierBoutique.dll.config
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\bin\MetierBoutique.dll
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\bin\MetierBoutique.pdb
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.csproj.CoreCompileInputs.cache
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.dll
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.pdb
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\bin\EntityFramework.dll
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\bin\EntityFramework.SqlServer.dll
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\bin\EntityFramework.xml
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\bin\EntityFramework.SqlServer.xml
+c:\users\administrateur\source\repos\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.csproj.CopyComplete
+C:\Users\Administrateur\source\repos\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.csprojResolveAssemblyReference.cache
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\bin\MetierBoutique.dll.config
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\bin\MetierBoutique.dll
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\bin\MetierBoutique.pdb
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\bin\EntityFramework.dll
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\bin\EntityFramework.SqlServer.dll
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\bin\EntityFramework.xml
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\bin\EntityFramework.SqlServer.xml
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.csproj.CopyComplete
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.dll
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.pdb
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.csproj.CoreCompileInputs.cache
+D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\obj\Debug\MetierBoutique.csprojAssemblyReference.cache

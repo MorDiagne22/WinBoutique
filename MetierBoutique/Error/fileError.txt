@@ -1,0 +1,30 @@
+﻿04/07/2020 03:05:08
+---------------------------------------------------------------------------------------
+Ajout de produit
+---------------------------------------------------------------------------------------
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   à System.Data.Entity.Internal.InternalContext.SaveChanges()
+   à System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   à System.Data.Entity.DbContext.SaveChanges()
+   à MetierBoutique.Service1.addProduit(Produit produit) dans D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\Service1.svc.cs:ligne 114
+---------------------------------------------------------------------------------------
+04/07/2020 03:05:08
+---------------------------------------------------------------------------------------
+Ajout de produit
+---------------------------------------------------------------------------------------
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   à System.Data.Entity.Internal.InternalContext.SaveChanges()
+   à System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   à System.Data.Entity.DbContext.SaveChanges()
+   à MetierBoutique.Service1.addProduit(Produit produit) dans D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\Service1.svc.cs:ligne 114
+---------------------------------------------------------------------------------------
+09/07/2020 18:06:10
+---------------------------------------------------------------------------------------
+Ajout de produit
+---------------------------------------------------------------------------------------
+System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   à System.Data.Entity.Internal.InternalContext.SaveChanges()
+   à System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   à System.Data.Entity.DbContext.SaveChanges()
+   à MetierBoutique.Service1.addProduit(Produit produit) dans D:\cour L3\DotNet\Cour En Ligne\WinBoutique\MetierBoutique\Service1.svc.cs:ligne 114
+---------------------------------------------------------------------------------------
